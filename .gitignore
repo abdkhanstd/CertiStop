@@ -1,0 +1,13 @@
+# raw and derived data are downloaded/built locally (licences of the source datasets)
+data_raw/
+data/
+# trained weights are published as a release asset
+weights/
+# manuscript material and tooling are not part of this repository
+paper_tools/
+pilot/
+results/tmp/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+archive/

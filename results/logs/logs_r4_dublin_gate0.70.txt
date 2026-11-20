@@ -1,0 +1,27 @@
+dublin (5406, 34) 816 tests 508 subjects {'full': 27, 'hr': 15}
+[Parallel(n_jobs=8)]: Using backend LokyBackend with 8 concurrent workers.
+rep 0 done in 126s
+rep 1 done in 136s
+rep 2 done in 142s
+rep 3 done in 129s
+rep 4 done in 173s
+rep 5 done in 179s
+rep 6 done in 139s
+rep 7 done in 161s
+rep 8 done in 130s
+rep 9 done in 126s
+rep 10 done in 137s
+rep 11 done in 141s
+rep 12 done in 136s
+rep 13 done in 133s
+rep 14 done in 149s
+rep 15 done in 142s
+rep 16 done in 124s
+rep 17 done in 128s
+rep 18 done in 132s
+rep 19 done in 122s
+[Parallel(n_jobs=8)]: Done   2 tasks      | elapsed:  2.2min
+[Parallel(n_jobs=8)]: Done  10 out of  20 | elapsed:  4.3min remaining:  4.3min
+[Parallel(n_jobs=8)]: Done  15 out of  20 | elapsed:  5.4min remaining:  1.8min
+[Parallel(n_jobs=8)]: Done  20 out of  20 | elapsed:  6.8min finished
+all done

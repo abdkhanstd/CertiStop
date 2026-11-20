@@ -1,0 +1,27 @@
+malaga (27713, 41) 981 tests 846 subjects {'full': 34, 'hr': 16}
+[Parallel(n_jobs=10)]: Using backend LokyBackend with 10 concurrent workers.
+rep 0 done in 277s
+rep 1 done in 285s
+rep 2 done in 187s
+rep 3 done in 199s
+rep 4 done in 304s
+rep 5 done in 280s
+rep 6 done in 301s
+rep 7 done in 292s
+rep 8 done in 303s
+rep 9 done in 281s
+rep 10 done in 188s
+rep 11 done in 193s
+rep 12 done in 229s
+rep 13 done in 237s
+rep 14 done in 237s
+rep 15 done in 237s
+rep 16 done in 237s
+rep 17 done in 237s
+rep 18 done in 243s
+rep 19 done in 226s
+[Parallel(n_jobs=10)]: Done   6 out of  20 | elapsed:  4.8min remaining: 11.2min
+[Parallel(n_jobs=10)]: Done  11 out of  20 | elapsed:  6.3min remaining:  5.1min
+[Parallel(n_jobs=10)]: Done  16 out of  20 | elapsed:  8.7min remaining:  2.2min
+[Parallel(n_jobs=10)]: Done  20 out of  20 | elapsed:  9.1min finished
+all done
